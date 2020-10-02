@@ -16,7 +16,6 @@ Required dependencies:
 * `SonataAdminBundle <https://sonata-project.org/bundles/admin>`_
 * `SonataBlockBundle <https://sonata-project.org/bundles/block>`_
 * `SonataFormatterBundle <https://sonata-project.org/bundles/formatter>`_
-* `SonataIntlBundle <https://sonata-project.org/bundles/intl>`_
 * `SonataClassificationBundle <https://sonata-project.org/bundles/classification>`_
 * `SonataMediaBundle <https://sonata-project.org/bundles/media>`_
 

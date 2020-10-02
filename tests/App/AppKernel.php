@@ -21,7 +21,6 @@ use Sonata\BlockBundle\SonataBlockBundle;
 use Sonata\ClassificationBundle\SonataClassificationBundle;
 use Sonata\Doctrine\Bridge\Symfony\SonataDoctrineBundle;
 use Sonata\Form\Bridge\Symfony\SonataFormBundle;
-use Sonata\IntlBundle\SonataIntlBundle;
 use Sonata\MediaBundle\SonataMediaBundle;
 use Sonata\NewsBundle\SonataNewsBundle;
 use Sonata\Twig\Bridge\Symfony\SonataTwigBundle;
@@ -61,7 +60,6 @@ final class AppKernel extends Kernel
             new SonataFormBundle(),
             new SonataTwigBundle(),
             new SonataClassificationBundle(),
-            new SonataIntlBundle(),
             new SonataMediaBundle(),
             new SonataNewsBundle(),
             new JMSSerializerBundle(),
